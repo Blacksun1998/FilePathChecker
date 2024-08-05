@@ -1,6 +1,5 @@
-#windows
-
-#mac
+import update
+update.update()
 
 import os
 import psutil
